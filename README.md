@@ -112,7 +112,7 @@ Hi! I’m **Avinash Singh**, a Full Stack .NET Developer with a knack for design
 Feel free to reach out:
 
 - 📧 Email: [avinash96sngh@gmail.com](mailto:avinash96sngh@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/avinash-singh-002b0a12)
+- 💼 [LinkedIn](https://www.linkedin.com/in/avinash-singh-002b0a12a)
 - 🧑‍💻 [GitHub](https://github.com/yourusername)
 
 ---
