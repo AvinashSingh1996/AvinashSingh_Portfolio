@@ -47,6 +47,7 @@ Hi! I’m **Avinash Singh**, a Full Stack .NET Developer with a knack for design
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black)
 ![.NET Core](https://img.shields.io/badge/.NET-%23512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-%234B0082?style=flat)
+![.NET CORE](https://img.shields.io/badge/.NETCORE-%234B0082?style=flat)
 
 ### ⚙️ Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)
