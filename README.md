@@ -126,7 +126,6 @@ Feel free to reach out:
 
 ## 🛠 Built With
 
-- Lovable.dev (for portfolio UI)
 - Markdown (this README)
 - Icons from Shields.io & Simple Icons
 - ❤️ and curiosity
