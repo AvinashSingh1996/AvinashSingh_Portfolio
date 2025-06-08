@@ -70,7 +70,7 @@ Hi! I’m **Avinash Singh**, a Full Stack .NET Developer with a knack for design
 - Improved workflow visibility, saved 40% time for HR
 
 ### 📍 Merck (Sigma-Aldrich)
-**Data Engineering Intern** | Dec 2021 – Jul 2022  
+**Data Engineering** | Dec 2021 – Jul 2022  
 - Built dashboards and automated EDA in Palantir Foundry
 - Used PySpark, SQL, Python for data pipelines
 
