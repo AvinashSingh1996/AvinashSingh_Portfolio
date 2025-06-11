@@ -19,7 +19,7 @@
 
 Welcome to my portfolio! I’m a passionate developer focused on building scalable enterprise-grade web applications using modern technologies like **.NET Core**, **React.js**, and **automation tools** like **n8n** and **LM Studio**.
 
-[🌐 View Portfolio Website](https://your-portfolio-link.com) • [📄 Download Resume](https://github.com/user-attachments/files/20639351/Avinash_Singh_Resume.pdf) • [✉️ Contact Me](mailto:avinash96sngh@gmail.com)
+[🌐 View Portfolio Website](https://underdevelopment) • [📄 Download Resume](https://github.com/user-attachments/files/20639351/Avinash_Singh_Resume.pdf) • [✉️ Contact Me](mailto:avinash96sngh@gmail.com)
 
 ---
 
