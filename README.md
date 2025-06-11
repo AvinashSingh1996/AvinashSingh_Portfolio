@@ -78,7 +78,7 @@ Hi! I’m **Avinash Singh**, a Full Stack .NET Developer with a knack for design
 
 ## 🚀 Projects
 
-### [🔗 LocalTechNews-AI](https://github.com/yourusername/LocalTechNews-AI)
+### [🔗 LocalTechNews-AI](https://github.com/yourusername/LocalTechNews-AI)![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
 > AI content automation pipeline using **n8n**, **LM Studio**, Docker containers, REST APIs, and LLM scheduling.
 
 ### 🎮 The Serpentes Game
@@ -117,10 +117,10 @@ Feel free to reach out:
 
 ---
 
-## 🧠 Currently Exploring
+## 🧠 Currently Practicing
 
 > Building AI-powered automation systems using **n8n**, **LLMs**, and **LM Studio**  
-> Experimenting with **containerized DevOps pipelines** and edge AI tools
+> Practicioning **Azure Services** ,**Azure AI Foundry-creating agents,  with **containerized DevOps pipelines** and edge AI tools
 
 ---
 
