@@ -148,5 +148,5 @@ Feel free to reach out:
 - ❤️ and curiosity
 
 ---
-
 _If you like it, let's connect and collaborate!_
+> © 2025 Avinash Singh — All rights reserved.
