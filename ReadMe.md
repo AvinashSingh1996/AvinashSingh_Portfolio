@@ -33,6 +33,8 @@ Hi! I’m **Avinash Singh**, a Full Stack .NET Developer with a knack for design
 - ⚙️ Obsessed with automation and AI workflows
 - 🎨 Detail-oriented in UI/UX and user flows
 - 🤝 Collaborative in agile environments
+- ☁️ Learning and building with Azure —  Functions, Blob Storage, DevOps, and Cosmos DB while preparing for the Azure Developer Associate certification. It’s a platform I’m excited to grow with.
+
 
 ---
 
