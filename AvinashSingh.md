@@ -1,6 +1,6 @@
 # Welcome 
 
-```bash
+```
 🟢 Welcome, This is Agent S1NGH.
 🔐 Code ID: 01011996
 🧠 Systems booting… full-stack mode engaged
@@ -44,8 +44,8 @@ Hi! I’m **Avinash Singh**, a Full Stack .NET Developer with a knack for design
 ![SQL](https://img.shields.io/badge/SQL-%2300f?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Jquery](https://img.shields.io/badge/Jquery-%23F7DF1E?style=flat&logo=Jquery&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET-%23512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-%234B0082?style=flat)
 ![.NET CORE](https://img.shields.io/badge/.NETCORE-%234B0082?style=flat)
