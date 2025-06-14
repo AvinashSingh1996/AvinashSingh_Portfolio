@@ -67,7 +67,7 @@ Hi! I’m **Avinash Singh**, a Full Stack .NET Developer with a knack for design
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-black?style=flat&logo=Claude)
 ![Perplexity](https://img.shields.io/badge/Perplexity-research-blue?style=flat&logo=Perplexity)
-![Lovable.dev](https://img.shields.io/badge/Lovable.dev-Creative-orange?style=flat&logo=lovable)
+![Lovable.dev](https://img.shields.io/badge/lovable.dev-orange?style=flat&logo=Lovable.dev)
 ![Bolt.new](https://img.shields.io/badge/Bolt.new-purple?style=flat&color=7D3C98&logo=bolt)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat&logo=github&logoColor=white)
 ![V0](https://img.shields.io/badge/UI_to_Code-black?style=flat&logo=V0)
