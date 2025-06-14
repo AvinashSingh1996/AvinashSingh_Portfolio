@@ -16,7 +16,7 @@
 
 # 👨‍💻 Avinash Singh – Full Stack .NET Developer
 
-Welcome to my portfolio! I’m a passionate software engineer focused on building scalable, enterprise-grade web applications using modern technologies like **.NET**, **React.js**, and **SQL Server**. I specialize in crafting robust APIs, intuitive UIs, and workflow automation using tools like **n8n**, **LM Studio**, and increasingly exploring **Azure AI Studio** to integrate intelligent capabilities into applications.
+Welcome to my portfolio! I’m a passionate software engineer focused on building scalable, enterprise-grade web applications using modern technologies like **.NET**. I specialize in crafting robust APIs, intuitive UIs, and workflow automation using tools like **n8n**, **LM Studio**, and increasingly exploring **Azure AI Studio** to integrate intelligent capabilities into applications.
 
 
 [🌐 View Portfolio Website](https://underdevelopment) • [📄 Download Resume](https://github.com/user-attachments/files/20639351/Avinash_Singh_Resume.pdf) • [✉️ Contact Me](mailto:avinash96sngh@gmail.com)
@@ -41,7 +41,9 @@ Hi! I’m **Avinash Singh**, a Full Stack .NET Developer with a knack for design
 ### 💻 Languages & Frameworks
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f?style=flat&logo=mysql&logoColor=white)
+![Html](https://img.shields.io/badge/Html-%42f5d4?style=flat&logo=Html5&logoColor=white)
+![Css](https://img.shields.io/badge/Css-%c542f5?style=flat&logo=CSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Jquery](https://img.shields.io/badge/Jquery-%23F7DF1E?style=flat&logo=Jquery&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black)
@@ -61,7 +63,7 @@ Hi! I’m **Avinash Singh**, a Full Stack .NET Developer with a knack for design
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-5C2D91?style=flat&logo=supabase&logoColor=white)
 
-### 🤖 AI & Creative Tools
+### 🤖Generative Tech & AI Stack
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-black?style=flat&logo=Claude)
 ![Perplexity](https://img.shields.io/badge/Perplexity-research-blue?style=flat&logo=Perplexity)
@@ -78,6 +80,7 @@ Hi! I’m **Avinash Singh**, a Full Stack .NET Developer with a knack for design
 **Associate Software Engineer** | Dec 2022 – Present  
 - Full stack developer in SWAT team
 - Revamped Task Planner, survey, birthdays & leave modules
+- Developed a location tracking module to optimize resource allocation, enhancing WFH and in-studio productivity.
 - Developed New Widget for Pending Approvals: Designed and implemented a widget for tracking pending approvals 
   on employee dashboards, improving workflow visibility and reducing approval cycle times by 25% 
 - Developed a Bulk Apply Leave module, automating the DTS and leave application process for HR, cutting down 
@@ -86,7 +89,7 @@ Hi! I’m **Avinash Singh**, a Full Stack .NET Developer with a knack for design
   friendly UI enhancement within the HR module interface. Implemented a dedicated button, resulting in a 30% 
   reduction in manual effort by the team and ensuring timely completion of HR processes. 
 - **Technologies:** C#, SQL Server, HTML, CSS, Bootstrap, ASP.NET MVC, .NET Core, Web API, JavaScript, jQuery,RESTfulApi's 
-    Azure basic & practically(Self taught) , React.js, Next.js (framework), Unit testing. 
+    Azure (self-taught, practical experience) , React.js, Next.js (framework), Unit testing. 
 
 ### 📍 Merck (Sigma-Aldrich)
 **Data Engineering** | Dec 2021 – Jul 2022  
