@@ -104,6 +104,16 @@ Hi! I’m **Avinash Singh**, a Full Stack .NET Developer with a knack for design
 ### [🔗 LocalTechNews-AI](https://github.com/AvinashSingh1996/LocalTechNews-AI)![latest](https://img.shields.io/badge/latest-412991?style=flat&logoColor=white)
 > AI content automation pipeline using **n8n**, **LM Studio**, Docker containers, REST APIs, and LLM scheduling.
 
+### [🔗  Safe Nest – A Fully Functional SaaS App Built Solo with AI Assistance](https://safe-nest-01.netlify.app/)![latest](https://img.shields.io/badge/latest-412991?style=flat&logoColor=green)
+> ## Key Features
+
+- 🌐 **Real-time Emergency Alerts** using Supabase Realtime
+- 🗺️ **Interactive Safe Zone Mapping** with Leaflet & OpenMap
+- 🤖 **AI-Powered Safety Guidance** (Claude AI integration)
+- 📦 **Resource Request & Management System**
+- 📊 **Comprehensive Admin Dashboard**
+- 🔒 **Secure Auth & Role Management**
+- ⚡ **Optimized for Fast Deployment & Live Testing**
 ---
 
 ## 📜 Certifications & Awards
@@ -136,7 +146,7 @@ Feel free to reach out:
 
 ## 🧠 Currently Exploring
 
-> In my spare time, I dive into AI-powered automation using **n8n**, **LLMs** using **LM Studio**  
+> In my spare time, I dive into AI-powered tools, automation using **n8n**, **LLMs** using **LM Studio**  
 > Experimenting with **Azure AI Studio** and Foundry to build intelligent agents and custom workflows  
 > Using Generative AI to create, code, research, and build agentic systems — from text and images to videos and automation flows
 
